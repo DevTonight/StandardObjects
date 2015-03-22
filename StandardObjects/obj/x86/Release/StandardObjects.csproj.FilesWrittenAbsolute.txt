@@ -1,0 +1,5 @@
+/home/matthew/git/StandardObjects/StandardObjects/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/matthew/git/StandardObjects/StandardObjects/bin/Release/StandardObjects.dll.mdb
+/home/matthew/git/StandardObjects/StandardObjects/bin/Release/StandardObjects.dll
+/home/matthew/git/StandardObjects/StandardObjects/obj/x86/Release/StandardObjects.dll
+/home/matthew/git/StandardObjects/StandardObjects/obj/x86/Release/StandardObjects.dll.mdb
